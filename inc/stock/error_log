@@ -1,0 +1,11 @@
+[12-Jun-2023 16:06:41 Asia/Kolkata] PHP Warning:  Attempt to read property "product_id" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/inc/stock/product-use-in-salon-show.php on line 24
+[12-Jun-2023 16:06:41 Asia/Kolkata] PHP Warning:  Attempt to read property "product" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/inc/stock/product-use-in-salon-show.php on line 28
+[12-Jun-2023 16:08:33 Asia/Kolkata] PHP Warning:  Attempt to read property "product_id" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/inc/stock/product-use-in-salon-show.php on line 24
+[12-Jun-2023 16:08:33 Asia/Kolkata] PHP Warning:  Attempt to read property "product" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/inc/stock/product-use-in-salon-show.php on line 28
+[12-Jun-2023 16:08:54 Asia/Kolkata] PHP Warning:  Attempt to read property "stock_record_id" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/inc/stock/product-use-in-salon-delete.php on line 26
+[31-Oct-2023 10:47:15 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`atqitcgz_demosaloon`.`vendor`, CONSTRAINT `vendor_ibfk_1` FOREIGN KEY (`branch_id`) REFERENCES `branch` (`id`) ON DELETE CASCADE ON UPDATE CASCADE) in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/inc/stock/product-stock-add.php:95
+Stack trace:
+#0 /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/inc/stock/product-stock-add.php(95): mysqli_query(Object(mysqli), 'INSERT INTO `ve...')
+#1 /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/inc/stock/product-stock-add.php(109): addProductVendor(Object(mysqli), Array)
+#2 {main}
+  thrown in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/inc/stock/product-stock-add.php on line 95

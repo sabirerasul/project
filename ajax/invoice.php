@@ -1,0 +1,1 @@
+{"client":"Riya","service":"Under eye","beautician":"Poonam","notes":"","date":"31-08-2022","start_time":"11:00 AM","end_time":"01:00 PM","bill_status":"1","appointment_status":"Pending","checkin_status":"1","checkin_time":"10:04 AM"}

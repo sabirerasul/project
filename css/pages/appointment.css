@@ -1,0 +1,93 @@
+.table>thead>tr>th {
+    border-bottom: 2px solid #b3b3b3;
+    font-weight: 600;
+    background: #ededed;
+}
+
+.panel-heading {
+    position: relative;
+    padding: 12px 15px;
+    border: 0;
+    background-color: #f2f2f2;
+    border-radius: 4px;
+}
+
+.panel-heading h4 {
+    font-size: 16px;
+    margin: 0;
+    font-weight: 600;
+}
+
+h4 {
+    font-size: 18px;
+    margin: 0 0 20px 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    font-weight: 500;
+    padding: 0;
+}
+
+@media(max-width: 768px) {
+    .daterangepicker {
+        width: 318px !important;
+    }
+}
+
+.divloader_ajax_small {
+    border: 2px solid #f3f3f3 !important;
+    border-radius: 50%;
+    border-top: 2px solid #2D2D2D !important;
+    width: 29px;
+    height: 29px;
+    margin: 0 auto;
+    -webkit-animation: spin_loader_ajax_small .30s linear infinite;
+    animation: spin_loader_ajax_small .30s linear infinite;
+}
+
+@-webkit-keyframes spin_loader_ajax_small {
+    0% {
+        -webkit-transform: rotate(0deg);
+    }
+
+    100% {
+        -webkit-transform: rotate(360deg);
+    }
+}
+
+@keyframes spin_loader_ajax_small {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+.pending-appointment {
+    background-color: #ffeea9;
+    border-color: #ffd52c;
+    color: (--bs-primary);
+}
+
+.cancelled-appointment {
+    background-color: #f97979;
+    border-color: #ff4242;
+    color: (--bs-danger);
+}
+
+.billed-appointment {
+    background-color: #bef1be;
+    border-color: #83e783;
+    color: (--bs-success);
+}
+
+.checkedin-appointment {
+    background-color: #d7c8ff;
+    border-color: #ae9be1;
+}

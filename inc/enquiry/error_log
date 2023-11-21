@@ -1,0 +1,16 @@
+[15-Feb-2023 17:55:04 Asia/Kolkata] PHP Notice:  Trying to get property 'username' of non-object in /home/ej7w3qqpvsx1/public_html/pixelsalon.pxlsoftware.com/lib/config-details.php on line 76
+[15-Feb-2023 17:55:04 Asia/Kolkata] PHP Notice:  Trying to get property 'password' of non-object in /home/ej7w3qqpvsx1/public_html/pixelsalon.pxlsoftware.com/lib/config-details.php on line 77
+[15-Feb-2023 17:55:04 Asia/Kolkata] PHP Notice:  Trying to get property 'url' of non-object in /home/ej7w3qqpvsx1/public_html/pixelsalon.pxlsoftware.com/lib/config-details.php on line 78
+[15-Feb-2023 17:55:04 Asia/Kolkata] PHP Notice:  Trying to get property 'sender_id' of non-object in /home/ej7w3qqpvsx1/public_html/pixelsalon.pxlsoftware.com/lib/config-details.php on line 79
+[15-Feb-2023 18:12:51 Asia/Kolkata] PHP Notice:  Trying to get property 'username' of non-object in /home/ej7w3qqpvsx1/public_html/pixelsalon.pxlsoftware.com/lib/config-details.php on line 76
+[15-Feb-2023 18:12:51 Asia/Kolkata] PHP Notice:  Trying to get property 'password' of non-object in /home/ej7w3qqpvsx1/public_html/pixelsalon.pxlsoftware.com/lib/config-details.php on line 77
+[15-Feb-2023 18:12:51 Asia/Kolkata] PHP Notice:  Trying to get property 'url' of non-object in /home/ej7w3qqpvsx1/public_html/pixelsalon.pxlsoftware.com/lib/config-details.php on line 78
+[15-Feb-2023 18:12:51 Asia/Kolkata] PHP Notice:  Trying to get property 'sender_id' of non-object in /home/ej7w3qqpvsx1/public_html/pixelsalon.pxlsoftware.com/lib/config-details.php on line 79
+[15-Feb-2023 18:13:13 Asia/Kolkata] PHP Notice:  Trying to get property 'username' of non-object in /home/ej7w3qqpvsx1/public_html/pixelsalon.pxlsoftware.com/lib/config-details.php on line 76
+[15-Feb-2023 18:13:13 Asia/Kolkata] PHP Notice:  Trying to get property 'password' of non-object in /home/ej7w3qqpvsx1/public_html/pixelsalon.pxlsoftware.com/lib/config-details.php on line 77
+[15-Feb-2023 18:13:13 Asia/Kolkata] PHP Notice:  Trying to get property 'url' of non-object in /home/ej7w3qqpvsx1/public_html/pixelsalon.pxlsoftware.com/lib/config-details.php on line 78
+[15-Feb-2023 18:13:13 Asia/Kolkata] PHP Notice:  Trying to get property 'sender_id' of non-object in /home/ej7w3qqpvsx1/public_html/pixelsalon.pxlsoftware.com/lib/config-details.php on line 79
+[16-Feb-2023 18:09:33 Asia/Kolkata] PHP Notice:  Trying to get property 'username' of non-object in /home/ej7w3qqpvsx1/public_html/pixelsalon.pxlsoftware.com/lib/config-details.php on line 81
+[16-Feb-2023 18:09:33 Asia/Kolkata] PHP Notice:  Trying to get property 'password' of non-object in /home/ej7w3qqpvsx1/public_html/pixelsalon.pxlsoftware.com/lib/config-details.php on line 82
+[16-Feb-2023 18:09:33 Asia/Kolkata] PHP Notice:  Trying to get property 'url' of non-object in /home/ej7w3qqpvsx1/public_html/pixelsalon.pxlsoftware.com/lib/config-details.php on line 83
+[16-Feb-2023 18:09:33 Asia/Kolkata] PHP Notice:  Trying to get property 'sender_id' of non-object in /home/ej7w3qqpvsx1/public_html/pixelsalon.pxlsoftware.com/lib/config-details.php on line 84

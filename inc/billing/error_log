@@ -1,0 +1,5 @@
+[12-Jun-2023 16:28:30 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string * int in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/lib/db.php:1234
+Stack trace:
+#0 /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/inc/billing/billing-add.php(278): addRewardPoint(Object(mysqli), 167)
+#1 {main}
+  thrown in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/lib/db.php on line 1234

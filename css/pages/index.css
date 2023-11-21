@@ -1,0 +1,322 @@
+.fc-time-grid-container {
+  height: auto !important;
+}
+
+.fc-content {
+  cursor: pointer;
+}
+
+.fc-today-button,
+.fc-axis,
+.fc-resourceTimeGridDay-button,
+.fc-resourceTimeGridWeek-button,
+.fc-resourceDayGridMonth-button,
+.fc-dayGridMonth-button,
+.fc-timegrid-axis-cushion,
+.fc-col-header-cell-cushion,
+.color-code-indecation,
+.fc-header-toolbar,
+.fc-timegrid-slot-label-cushion {
+  text-transform: uppercase;
+}
+
+.ui-autocomplete {
+  z-index: 9999;
+}
+
+.pending-appointment {
+  background-color: #ffeea9;
+  border-color: #ffd52c;
+  color: (--bs-primary);
+}
+
+.cancelled-appointment {
+  background-color: #f97979;
+  border-color: #ff4242;
+  color: (--bs-danger);
+}
+
+.billed-appointment {
+  background-color: #bef1be;
+  border-color: #83e783;
+  color: (--bs-success);
+}
+
+.checkedin-appointment {
+  background-color: #d7c8ff;
+  border-color: #ae9be1;
+}
+
+.fc-time-grid .fc-slats {
+  /*z-index: 4;*/
+  /*pointer-events: none;*/
+}
+
+.fc-resourceDayGridMonth-view .fc-widget-content,
+.fc-resourceDayGridMonth-view .fc-day-grid-container {
+  height: auto !important;
+  min-height: 8em !important;
+}
+
+.fc-time-grid .fc-event,
+.fc-time-grid .fc-bgevent {
+  min-height: 15px;
+}
+
+.fc-resourceDayGridMonth-view .fc-day-grid-container {
+  min-height: 600px !important;
+}
+
+.fc-view {
+  overflow-x: auto;
+}
+
+.fc-scroller.fc-time-grid-container {
+  overflow: initial !important;
+}
+
+.fc-axis {
+  position: sticky;
+  left: 0;
+  background: white;
+}
+
+.popover {
+  background: #fff;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+}
+
+.popover.top > .arrow:after {
+  border-top-color: #ccc;
+}
+
+.fc-event,
+.fc-event:hover,
+.fc-v-event .fc-event-main {
+  color: #000 !important;
+}
+
+.fc-unthemed td.fc-today {
+  background: #fff;
+}
+
+#calendar-container {
+  height: 2565px;
+  /* height: auto; */
+}
+
+#calendar-container {
+  /* position: fixed; */
+  position: relative;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.fc-header-toolbar {
+  /*
+the calendar will be butting up against the edges,
+but let's scoot in the header's buttons
+*/
+  padding-top: 1em;
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+/*
+#calendar {
+    max-width: 1100px;
+    margin: 50px auto;
+}*/
+
+.ui-autocomplete,
+.ui-menu {
+  z-index: 99999 !important;
+}
+
+.table > thead > tr > th {
+  border-bottom: 2px solid #b3b3b3;
+  font-weight: 600;
+  background: #ededed;
+}
+
+.panel-heading {
+  position: relative;
+  padding: 12px 15px;
+  border: 0;
+  background-color: #f2f2f2;
+  border-radius: 4px;
+}
+
+.panel-heading h4 {
+  font-size: 16px;
+  margin: 0;
+  font-weight: 600;
+}
+
+h4 {
+  font-size: 18px;
+  margin: 0 0 20px 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-weight: 500;
+  padding: 0;
+}
+
+@media (max-width: 768px) {
+  .daterangepicker {
+    width: 318px !important;
+  }
+}
+
+.divloader_ajax_small {
+  border: 2px solid #f3f3f3 !important;
+  border-radius: 50%;
+  border-top: 2px solid #2d2d2d !important;
+  width: 29px;
+  height: 29px;
+  margin: 0 auto;
+  -webkit-animation: spin_loader_ajax_small 0.3s linear infinite;
+  animation: spin_loader_ajax_small 0.3s linear infinite;
+}
+
+@-webkit-keyframes spin_loader_ajax_small {
+  0% {
+    -webkit-transform: rotate(0deg);
+  }
+
+  100% {
+    -webkit-transform: rotate(360deg);
+  }
+}
+
+@keyframes spin_loader_ajax_small {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.popper,
+.tooltip {
+  position: absolute;
+  z-index: 9999;
+  background: #ffc107;
+  color: black;
+  width: 150px;
+  border-radius: 3px;
+  box-shadow: 0 0 2px rgba(0, 0, 0, 0.5);
+  padding: 10px;
+  text-align: center;
+}
+.style5 .tooltip {
+  background: #1e252b;
+  color: #ffffff;
+  max-width: 200px;
+  width: auto;
+  font-size: 0.8rem;
+  padding: 0.5em 1em;
+}
+.popper .popper__arrow,
+.tooltip .tooltip-arrow {
+  width: 0;
+  height: 0;
+  border-style: solid;
+  position: absolute;
+  margin: 5px;
+}
+
+.tooltip .tooltip-arrow,
+.popper .popper__arrow {
+  border-color: #ffc107;
+}
+.style5 .tooltip .tooltip-arrow {
+  border-color: #1e252b;
+}
+.popper[x-placement^="top"],
+.tooltip[x-placement^="top"] {
+  margin-bottom: 5px;
+}
+.popper[x-placement^="top"] .popper__arrow,
+.tooltip[x-placement^="top"] .tooltip-arrow {
+  border-width: 5px 5px 0 5px;
+  border-left-color: transparent;
+  border-right-color: transparent;
+  border-bottom-color: transparent;
+  bottom: -5px;
+  left: calc(50% - 5px);
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.popper[x-placement^="bottom"],
+.tooltip[x-placement^="bottom"] {
+  margin-top: 5px;
+}
+.tooltip[x-placement^="bottom"] .tooltip-arrow,
+.popper[x-placement^="bottom"] .popper__arrow {
+  border-width: 0 5px 5px 5px;
+  border-left-color: transparent;
+  border-right-color: transparent;
+  border-top-color: transparent;
+  top: -5px;
+  left: calc(50% - 5px);
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.tooltip[x-placement^="right"],
+.popper[x-placement^="right"] {
+  margin-left: 5px;
+}
+.popper[x-placement^="right"] .popper__arrow,
+.tooltip[x-placement^="right"] .tooltip-arrow {
+  border-width: 5px 5px 5px 0;
+  border-left-color: transparent;
+  border-top-color: transparent;
+  border-bottom-color: transparent;
+  left: -5px;
+  top: calc(50% - 5px);
+  margin-left: 0;
+  margin-right: 0;
+}
+.popper[x-placement^="left"],
+.tooltip[x-placement^="left"] {
+  margin-right: 5px;
+}
+.popper[x-placement^="left"] .popper__arrow,
+.tooltip[x-placement^="left"] .tooltip-arrow {
+  border-width: 5px 0 5px 5px;
+  border-top-color: transparent;
+  border-right-color: transparent;
+  border-bottom-color: transparent;
+  right: -5px;
+  top: calc(50% - 5px);
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.btn-filter,
+.btn-filter:hover,
+.btn-filter:active,
+.btn-filter:visited,
+.btn-filter:focus {
+  background: #9d4ee8;
+  color: #fff;
+}
+
+
+
+@media screen and (max-width: 650px) {
+  .fc .fc-toolbar{
+    flex-direction: column;
+  }
+}

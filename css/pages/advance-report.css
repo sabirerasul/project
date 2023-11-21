@@ -1,0 +1,14 @@
+@media print {
+    #fetch_balace_report{
+        display:block;
+    }
+    header, nav, footer, .heading-with-btn, .col-lg-3.col-md-4.col-sm-4.col-xs-12, #date_filter, #paymentModal {
+        display:none;
+    }
+}
+
+
+.alltimes .hour_0, .alltimes .hour_1, .alltimes .hour_2, .alltimes .hour_3, .alltimes .hour_4, .alltimes .hour_5, .alltimes .hour_6, .alltimes .hour_7, .alltimes .hour_8, .alltimes .hour_22, .alltimes .hour_23{
+    pointer-events: none;
+    opacity : 0.3;
+}

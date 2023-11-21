@@ -1,0 +1,82 @@
+[01-Aug-2023 16:08:56 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/client-profile.php on line 5
+[01-Aug-2023 16:08:56 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/comman/client-tabs.php on line 3
+[01-Aug-2023 16:08:56 Asia/Kolkata] PHP Warning:  Attempt to read property "client_name" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/client-profile.php on line 101
+[01-Aug-2023 16:08:56 Asia/Kolkata] PHP Warning:  Attempt to read property "created_at" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/client-profile.php on line 101
+[01-Aug-2023 16:08:56 Asia/Kolkata] PHP Warning:  Attempt to read property "client_name" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/client-profile.php on line 126
+[01-Aug-2023 16:08:56 Asia/Kolkata] PHP Warning:  Attempt to read property "contact" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/client-profile.php on line 133
+[01-Aug-2023 16:08:56 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/client-profile.php on line 140
+[01-Aug-2023 16:08:56 Asia/Kolkata] PHP Warning:  Attempt to read property "gender" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/client-profile.php on line 153
+[01-Aug-2023 16:08:56 Asia/Kolkata] PHP Warning:  Attempt to read property "gender" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/client-profile.php on line 153
+[01-Aug-2023 16:08:56 Asia/Kolkata] PHP Warning:  Attempt to read property "dob" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/client-profile.php on line 163
+[01-Aug-2023 16:08:56 Asia/Kolkata] PHP Warning:  Attempt to read property "anniversary" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/client-profile.php on line 170
+[01-Aug-2023 16:08:56 Asia/Kolkata] PHP Warning:  Attempt to read property "source_of_client" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/client-profile.php on line 183
+[01-Aug-2023 16:08:56 Asia/Kolkata] PHP Warning:  Attempt to read property "source_of_client" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/client-profile.php on line 183
+[01-Aug-2023 16:08:56 Asia/Kolkata] PHP Warning:  Attempt to read property "source_of_client" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/client-profile.php on line 183
+[01-Aug-2023 16:08:56 Asia/Kolkata] PHP Warning:  Attempt to read property "source_of_client" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/client-profile.php on line 183
+[01-Aug-2023 16:08:56 Asia/Kolkata] PHP Warning:  Attempt to read property "source_of_client" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/client-profile.php on line 183
+[01-Aug-2023 16:08:56 Asia/Kolkata] PHP Warning:  Attempt to read property "source_of_client" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/client-profile.php on line 183
+[01-Aug-2023 16:08:56 Asia/Kolkata] PHP Warning:  Attempt to read property "source_of_client" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/client-profile.php on line 183
+[01-Aug-2023 16:08:56 Asia/Kolkata] PHP Warning:  Attempt to read property "source_of_client" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/client-profile.php on line 183
+[01-Aug-2023 16:08:56 Asia/Kolkata] PHP Warning:  Attempt to read property "source_of_client" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/client-profile.php on line 183
+[01-Aug-2023 16:08:56 Asia/Kolkata] PHP Warning:  Attempt to read property "source_of_client" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/client-profile.php on line 183
+[01-Aug-2023 16:08:56 Asia/Kolkata] PHP Warning:  Attempt to read property "source_of_client" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/client-profile.php on line 183
+[01-Aug-2023 16:08:56 Asia/Kolkata] PHP Warning:  Attempt to read property "source_of_client" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/client-profile.php on line 183
+[01-Aug-2023 16:08:56 Asia/Kolkata] PHP Warning:  Attempt to read property "source_of_client" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/client-profile.php on line 183
+[01-Aug-2023 16:08:56 Asia/Kolkata] PHP Warning:  Attempt to read property "source_of_client" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/client-profile.php on line 183
+[01-Aug-2023 16:08:56 Asia/Kolkata] PHP Warning:  Attempt to read property "source_of_client" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/client-profile.php on line 183
+[01-Aug-2023 16:08:56 Asia/Kolkata] PHP Warning:  Attempt to read property "address" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/client-profile.php on line 193
+[01-Aug-2023 16:08:56 Asia/Kolkata] PHP Warning:  Attempt to read property "id" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/client-profile.php on line 197
+[11-Aug-2023 00:38:39 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/client-profile.php on line 5
+[11-Aug-2023 00:38:39 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/comman/client-tabs.php on line 3
+[11-Aug-2023 00:38:39 Asia/Kolkata] PHP Warning:  Attempt to read property "client_name" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/client-profile.php on line 101
+[11-Aug-2023 00:38:39 Asia/Kolkata] PHP Warning:  Attempt to read property "created_at" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/client-profile.php on line 101
+[11-Aug-2023 00:38:39 Asia/Kolkata] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/lib/db.php on line 101
+[11-Aug-2023 00:38:39 Asia/Kolkata] PHP Warning:  Attempt to read property "client_name" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/client-profile.php on line 126
+[11-Aug-2023 00:38:39 Asia/Kolkata] PHP Warning:  Attempt to read property "contact" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/client-profile.php on line 133
+[11-Aug-2023 00:38:39 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/client-profile.php on line 140
+[11-Aug-2023 00:38:39 Asia/Kolkata] PHP Warning:  Attempt to read property "gender" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/client-profile.php on line 153
+[11-Aug-2023 00:38:39 Asia/Kolkata] PHP Warning:  Attempt to read property "gender" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/client-profile.php on line 153
+[11-Aug-2023 00:38:39 Asia/Kolkata] PHP Warning:  Attempt to read property "dob" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/client-profile.php on line 163
+[11-Aug-2023 00:38:39 Asia/Kolkata] PHP Warning:  Attempt to read property "anniversary" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/client-profile.php on line 170
+[11-Aug-2023 00:38:39 Asia/Kolkata] PHP Warning:  Attempt to read property "source_of_client" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/client-profile.php on line 183
+[11-Aug-2023 00:38:39 Asia/Kolkata] PHP Warning:  Attempt to read property "source_of_client" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/client-profile.php on line 183
+[11-Aug-2023 00:38:39 Asia/Kolkata] PHP Warning:  Attempt to read property "source_of_client" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/client-profile.php on line 183
+[11-Aug-2023 00:38:39 Asia/Kolkata] PHP Warning:  Attempt to read property "source_of_client" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/client-profile.php on line 183
+[11-Aug-2023 00:38:39 Asia/Kolkata] PHP Warning:  Attempt to read property "source_of_client" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/client-profile.php on line 183
+[11-Aug-2023 00:38:39 Asia/Kolkata] PHP Warning:  Attempt to read property "source_of_client" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/client-profile.php on line 183
+[11-Aug-2023 00:38:39 Asia/Kolkata] PHP Warning:  Attempt to read property "source_of_client" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/client-profile.php on line 183
+[11-Aug-2023 00:38:39 Asia/Kolkata] PHP Warning:  Attempt to read property "source_of_client" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/client-profile.php on line 183
+[11-Aug-2023 00:38:39 Asia/Kolkata] PHP Warning:  Attempt to read property "source_of_client" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/client-profile.php on line 183
+[11-Aug-2023 00:38:39 Asia/Kolkata] PHP Warning:  Attempt to read property "source_of_client" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/client-profile.php on line 183
+[11-Aug-2023 00:38:39 Asia/Kolkata] PHP Warning:  Attempt to read property "source_of_client" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/client-profile.php on line 183
+[11-Aug-2023 00:38:39 Asia/Kolkata] PHP Warning:  Attempt to read property "source_of_client" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/client-profile.php on line 183
+[11-Aug-2023 00:38:39 Asia/Kolkata] PHP Warning:  Attempt to read property "source_of_client" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/client-profile.php on line 183
+[11-Aug-2023 00:38:39 Asia/Kolkata] PHP Warning:  Attempt to read property "source_of_client" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/client-profile.php on line 183
+[11-Aug-2023 00:38:39 Asia/Kolkata] PHP Warning:  Attempt to read property "source_of_client" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/client-profile.php on line 183
+[11-Aug-2023 00:38:39 Asia/Kolkata] PHP Warning:  Attempt to read property "address" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/client-profile.php on line 193
+[11-Aug-2023 00:38:39 Asia/Kolkata] PHP Warning:  Attempt to read property "id" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/client-profile.php on line 197
+[18-Aug-2023 07:18:59 Asia/Kolkata] PHP Warning:  Undefined variable $inv in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/feedback-add.php on line 14
+[18-Aug-2023 07:18:59 Asia/Kolkata] PHP Warning:  Attempt to read property "branch_id" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/feedback-add.php on line 16
+[18-Aug-2023 07:18:59 Asia/Kolkata] PHP Warning:  Attempt to read property "salon_name" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/feedback-add.php on line 18
+[18-Aug-2023 07:18:59 Asia/Kolkata] PHP Warning:  Attempt to read property "logo" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/feedback-add.php on line 19
+[18-Aug-2023 07:18:59 Asia/Kolkata] PHP Warning:  Attempt to read property "id" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/feedback-add.php on line 20
+[05-Sep-2023 17:53:12 Asia/Kolkata] PHP Warning:  Attempt to read property "user_role" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/profile.php on line 9
+[05-Sep-2023 17:53:12 Asia/Kolkata] PHP Warning:  Attempt to read property "user_role" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/profile.php on line 10
+[05-Sep-2023 17:53:12 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/profile.php on line 80
+[05-Sep-2023 17:53:12 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/profile.php on line 81
+[05-Sep-2023 17:53:12 Asia/Kolkata] PHP Warning:  Attempt to read property "username" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/profile.php on line 82
+[06-Sep-2023 05:53:56 Asia/Kolkata] PHP Warning:  Attempt to read property "user_role" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/profile.php on line 9
+[06-Sep-2023 05:53:56 Asia/Kolkata] PHP Warning:  Attempt to read property "user_role" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/profile.php on line 10
+[06-Sep-2023 05:53:56 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/profile.php on line 80
+[06-Sep-2023 05:53:56 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/profile.php on line 81
+[06-Sep-2023 05:53:56 Asia/Kolkata] PHP Warning:  Attempt to read property "username" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/profile.php on line 82
+[10-Sep-2023 02:41:29 Asia/Kolkata] PHP Warning:  Undefined variable $inv in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/feedback-add.php on line 14
+[10-Sep-2023 02:41:29 Asia/Kolkata] PHP Warning:  Attempt to read property "branch_id" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/feedback-add.php on line 16
+[10-Sep-2023 02:41:29 Asia/Kolkata] PHP Warning:  Attempt to read property "salon_name" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/feedback-add.php on line 18
+[10-Sep-2023 02:41:29 Asia/Kolkata] PHP Warning:  Attempt to read property "logo" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/feedback-add.php on line 19
+[10-Sep-2023 02:41:29 Asia/Kolkata] PHP Warning:  Attempt to read property "id" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/feedback-add.php on line 20
+[11-Oct-2023 05:08:57 Asia/Kolkata] PHP Warning:  Undefined variable $inv in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/feedback-add.php on line 14
+[11-Oct-2023 05:08:57 Asia/Kolkata] PHP Warning:  Attempt to read property "branch_id" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/feedback-add.php on line 16
+[11-Oct-2023 05:08:57 Asia/Kolkata] PHP Warning:  Attempt to read property "salon_name" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/feedback-add.php on line 18
+[11-Oct-2023 05:08:57 Asia/Kolkata] PHP Warning:  Attempt to read property "logo" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/feedback-add.php on line 19
+[11-Oct-2023 05:08:57 Asia/Kolkata] PHP Warning:  Attempt to read property "id" on null in /home1/atqitcgz/public_html/pixelitsoftware.com/salon-demo/feedback-add.php on line 20

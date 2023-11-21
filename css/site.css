@@ -1,0 +1,135 @@
+.client-box-overview {
+  transition: transform 0.2s;
+  transition-delay: 0.2s;
+  color: #fff;
+}
+
+.client-box-overview .overview-text {
+  color: #fff !important;
+}
+
+.client-box-overview .overview-number {
+  color: #fff !important;
+}
+
+.client-box-overview:hover {
+  box-shadow: 0 10px 30px -5px rgb(235 36 42 / 90%);
+  -webkit-transform: scale(1.05);
+  -ms-transform: scale(1.05);
+  -o-transform: scale(1.05);
+  transform: scale(1.05);
+  cursor: pointer;
+}
+
+.client-box-overview.overview-purple {
+  background-color: #995dea;
+}
+
+.client-box-overview.overview-green {
+  background-color: #8dc327;
+}
+
+.client-box-overview.overview-yellow {
+  background-color: #fcad04;
+}
+
+.client-box-overview.overview-red {
+  background-color: #ef474a;
+}
+
+.required::after {
+  content: "*";
+  color: #ef474a;
+}
+
+.showErr {
+  color: #ef474a;
+}
+
+.table th {
+  font-size: 14px;
+}
+
+.table td {
+  padding: 0.6rem !important;
+}
+
+.table,
+.table th,
+.table td {
+  border-color: #e3e6f0 !important;
+}
+
+.table tr {
+  border-width: 1px 0 !important;
+}
+
+.table {
+  border-collapse: collapse !important;
+}
+
+.table-bordered> :not(caption)>*>* {
+  border-width: 1px !important;
+}
+
+div.dataTables_wrapper div.dataTables_length select {
+  width: 60px !important;
+}
+
+.form-control:disabled,
+.form-control[readonly] {
+  background-color: #ffffff !important;
+}
+
+.myfooter {
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
+
+.qs-datepicker-container {
+  z-index: 99;
+}
+
+.user-profile-info-wrapper {
+  left: -75px !important;
+}
+
+@media screen and (max-width: 575px) {
+  .user-profile-info-wrapper {
+    width: 100% !important;
+    left: 0px !important;
+  }
+}
+
+/* #content {
+  min-height: 1000px;
+} */
+
+.rating-color {
+  color: #f5ab3e !important;
+}
+
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+
+
+.secondary-menu {
+  background-color: #102e23 !important;
+}
+
+/* 
+:root {
+  --bs-dark-rgb: #102e23 !important;
+} */
+
+.bg-green {
+  background-color: #102e23;
+}
+
+#content {
+  min-height: 100vh;
+}

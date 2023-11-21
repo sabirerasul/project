@@ -1,0 +1,13 @@
+.accordion .list-group .list-group-item {
+    cursor: pointer;
+}
+
+.accordion .list-group .list-group-item.active {
+    cursor: pointer;
+}
+
+.service-price,
+.service-cart-price,
+.total_price {
+    font-weight: 900;
+}

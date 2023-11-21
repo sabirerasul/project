@@ -1,0 +1,38 @@
+<?php
+include('../../lib/db.php');
+throw_exception();
+
+
+$v = $_REQUEST;
+$k = '';
+$val = '';
+
+$errors = [];
+$data = [];
+$id = $_REQUEST['esid'];
+
+if (empty($_REQUEST['esid'])) {
+    $errors['error'] = 'esid is required.';
+}
+
+
+function deleteEmployeeSalary($db, $id){
+    $sql = "DELETE FROM `employee_salary` WHERE id={$id}";
+    $query = mysqli_query($db, $sql);
+
+    return $query ? true:false;
+}
+
+if (!empty($errors)) {
+    $data['success'] = false;
+    $data['errors'] = $errors;
+} else {
+
+    $m = deleteEmployeeSalary($db, $id);
+    $data['success'] = $m;
+    $data['message'] = 'Success!';
+}
+
+echo json_encode($data);
+
+?>

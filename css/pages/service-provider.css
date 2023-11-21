@@ -1,0 +1,60 @@
+.avatar img {
+    margin: 0px auto;
+    max-width: 105px;
+}
+
+.form-control:disabled {
+    background-color: #e9ecef !important;
+    opacity: 1 !important;
+}
+
+.table .sorting{
+    white-space: nowrap;
+}
+
+.edit-avt-img {
+    max-width: 200px;
+    width: 105px;
+    margin-top: 10px;
+}
+
+.img-thumbnail {
+    display: inline-block;
+    max-width: 100%;
+    height: auto;
+    padding: 4px;
+    line-height: 1.42857143;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    -webkit-transition: all .2s ease-in-out;
+    -o-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+}
+
+.notes {
+    border: 1px solid #f7f967;
+    padding: 5px;
+    margin-top: 15px;
+    background-color: #feffb1;
+    border-radius: 3px;
+}
+
+.service-label {
+    margin: 0px;
+    font-size: 12px;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+#offSettingDataTable {
+    counter-reset: tableCount;     
+}
+#offSettingDataTable .counterCell:before {              
+    content: counter(tableCount); 
+    counter-increment: tableCount; 
+}

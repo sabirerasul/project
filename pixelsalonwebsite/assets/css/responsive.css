@@ -1,0 +1,393 @@
+/*
+* ----------------------------------------------------------------------------------------
+Author       : DuezaThemes
+Author URL   : https://themeforest.net/user/duezathemes
+Template Name: App Studio - Mobile App Landing Page, App Showcase Template
+Version      : 1.0                                          
+* ----------------------------------------------------------------------------------------
+*/
+
+
+/* Medium Layout: 1280px. */
+
+@media only screen and (min-width: 992px) and (max-width: 1280px) {}
+
+
+/* Tablet Layout: 768px. */
+
+@media only screen and (min-width: 767px) and (max-width: 991px) {
+    .mainmenu .navbar-nav li a {
+        padding: 30px 11px;
+        font-size: 12px;
+    }
+
+    .navbar-right {
+        float: left !important;
+        left: 32px;
+        position: relative;
+    }
+
+    .single-blog-heading h2 {
+        margin-top: 50px;
+    }
+
+    .menu-bg .mainmenu .navbar-nav li a {
+        padding: 30px 11px;
+        font-size: 12px;
+    }
+
+    .logo {
+        text-align: center;
+    }
+
+    .single-logo {
+        margin-top: 30px;
+    }
+
+    .single-blog img {
+        width: 100%;
+    }
+
+    .pricing-box {
+        margin-top: 30px;
+    }
+
+    .have-a-project-idea-white .project-idea h2,
+    .have-a-project-idea-white .project-idea p {
+        font-size: 22px;
+    }
+
+    .project-idea h2,
+    .project-idea p {
+        font-size: 22px;
+    }
+
+    .single-logo {
+        width: 160px;
+        margin: 0 auto;
+    }
+
+    .single-project-complete {
+        margin-top: 30px;
+    }
+
+    .blog-description p {
+        padding: 0 10px;
+    }
+
+    .welcome-image-area h2,
+    .single-slide-item h2,
+    .welcome-video-area h2 {
+        font-size: 60px;
+    }
+
+    ul.work li {
+        font-size: 11px;
+    }
+
+    .work .item {
+        left: 0;
+    }
+
+    .item .tooltip {
+        border-radius: 100px;
+        height: 99%;
+        left: 35px;
+        top: 10px;
+    }
+
+    .item:hover .tooltip {
+        border-radius: 100px;
+    }
+
+    .phone {
+        margin-top: 30px;
+        position: relative;
+        top: 20px;
+    }
+
+    .email {
+        position: relative;
+        top: 10px;
+    }
+
+    .contact-form-design-area {
+        margin-top: 0px;
+    }
+
+    .header-text p {
+        line-height: 1.6em;
+        margin-top: 15px;
+    }
+}
+
+
+/* Mobile Layout: 320px. */
+
+@media only screen and (max-width: 767px) {
+    .navbar-toggle .icon-bar {
+        background: #102e23;
+    }
+
+    .menu-bg .navbar-toggle .icon-bar {
+        background: #fff;
+    }
+
+    .navbar-toggle {
+        margin-right: 0px;
+        margin-top: -43px !important;
+        padding: 9px 0px;
+    }
+
+    .navbar {
+        min-height: 0px;
+    }
+
+    .mainmenu .navbar-nav li a {
+        padding: 11px 15px;
+    }
+
+    .mainmenu .navbar-nav li a:hover {
+        color: #fff;
+    }
+
+    .menu-bg .mainmenu .navbar-nav li a:hover {
+        color: #fff;
+    }
+
+    .menu-bg .mainmenu .navbar-nav li a {
+        padding: 11px 15px;
+    }
+
+    .navbar-fixed-bottom .navbar-collapse,
+    .navbar-fixed-top .navbar-collapse {
+        max-height: 420px;
+    }
+
+    .navbar-toggle {
+        margin-top: -40px;
+    }
+
+    .navbar-collapse {
+        /* background: rgb(228 245 239); */
+    }
+
+    .menu-bg .navbar-collapse {
+        /* background: rgb(16 46 35); */
+    }
+
+    .welcome-image-area h2,
+    .single-slide-item h2,
+    .welcome-video-area h2 {
+        font-size: 19px;
+    }
+
+    a.slide-btn {
+        font-size: 14px;
+        padding: 5px;
+        width: 140px;
+        margin-bottom: 5px;
+    }
+
+    .section-title h2 {
+        font-size: 22px;
+    }
+
+    .section-title h2 span {
+        font-size: 30px;
+    }
+
+    .footer-social-link {
+        text-align: left;
+        margin-top: 20px;
+    }
+
+    .pricing-box {
+        margin-top: 30px;
+    }
+
+    .single-testimonial {
+        padding: 0;
+    }
+
+    .video-area-text {
+        margin-top: 50px;
+    }
+
+    .footer-social-link {
+        text-align: center;
+    }
+
+    .footer-area img {
+        margin-bottom: 0px;
+    }
+
+    .scrollup {
+        height: 40px;
+        width: 40px;
+        line-height: 35px;
+    }
+
+    .our-news-letter input[type="text"] {
+        width: 90%;
+    }
+
+    .our-news-letter h2 {
+        font-size: 16px;
+    }
+
+    .single-project-complete {
+        margin-top: 30px;
+        text-align: center;
+    }
+
+    .header-text {
+        margin-top: 10px;
+    }
+
+    .footer-text h6 {
+        font-size: 10px;
+    }
+
+    .footer-area {
+        padding: 50px 0px;
+    }
+
+    .section-padding {
+        padding: 40px 0px;
+    }
+
+    .post-user {
+        padding-left: 10px;
+    }
+
+    .post-date a {
+        padding-left: 20px;
+    }
+
+    .post-comment a {
+        padding-left: 20px;
+    }
+
+    .footer-social-link ul li {
+        margin: 0px 8px;
+    }
+
+    .footer-social-link ul li a {
+        height: 35px;
+        line-height: 35px;
+        width: 35px;
+    }
+
+    a.slide-btn {
+        padding: 10px 0px;
+        margin-bottom: 5px;
+        margin: 0px 3px;
+    }
+
+    .welcome-image-area,
+    .welcome-video-area {
+        padding-top: 60px;
+    }
+
+    .progress-bar-text {
+        letter-spacing: 1px;
+    }
+
+    .why-image img {
+        margin-bottom: 20px;
+    }
+
+    .about-icon {
+        margin-bottom: 20px;
+    }
+
+    .content-grid .icon-holder::after {
+        height: 70%;
+    }
+
+    ul.work li {
+        margin: 3px 8px;
+    }
+
+    .blog-description p {
+        padding: 0 10px;
+    }
+
+    .single-contact-details {
+        margin-bottom: 10px;
+    }
+
+    .single-contact-details p {
+        font-size: 13px;
+    }
+
+    .single-contact-details .lnr::before {
+        font-size: 18px;
+        padding: 10px;
+        line-height: 1.5em;
+    }
+
+    .phone {
+        margin-top: 30px;
+        position: relative;
+        top: 10px;
+    }
+
+    .contact-form-design-area {
+        margin-top: 0px;
+    }
+
+    .work .item {
+        left: 7%;
+    }
+
+    .item .tooltip {
+        border-radius: 30px;
+        height: 98%;
+        left: 12px;
+    }
+
+    .item:hover .tooltip {
+        border-radius: 30px;
+    }
+
+    .header-text p {
+        line-height: 1.5em;
+        margin-top: 10px;
+    }
+}
+
+/* Wide Mobile Layout: 360px. */
+
+@media only screen and (min-width: 360px) and (max-width: 640px) {
+    .single-logo {
+        margin-bottom: 20px;
+    }
+
+    .work .item {
+        left: 17%;
+    }
+
+    .header-text p {
+        line-height: 1.5em;
+        margin-top: 10px;
+    }
+}
+
+/* Wide Mobile Layout: 480px. */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+    .single-logo {
+        margin-bottom: 20px;
+    }
+
+    .work .item {
+        left: 15%;
+    }
+
+    .header-text p {
+        line-height: 1.5em;
+        margin-top: 10px;
+    }
+}
